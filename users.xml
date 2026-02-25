@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<users>
+
+    <user>
+        <id>1</id>
+        <name>Rahul Sharma</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>rahul@example.com</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Priya Reddy</name>
+        <role>Student</role>
+        <department>ECE</department>
+        <email>priya@example.com</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Amit Kumar</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>amit@example.com</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Sneha Rao</name>
+        <role>Faculty</role>
+        <department>EEE</department>
+        <email>sneha@example.com</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Arjun Patel</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>arjun@example.com</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Neha Singh</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>neha@example.com</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Vikram Das</name>
+        <role>Faculty</role>
+        <department>Mechanical</department>
+        <email>vikram@example.com</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Anjali Mehta</name>
+        <role>Student</role>
+        <department>Civil</department>
+        <email>anjali@example.com</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Ravi Verma</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>ravi@example.com</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Kavya Nair</name>
+        <role>Student</role>
+        <department>IT</department>
+        <email>kavya@example.com</email>
+    </user>
+
+</users>
